@@ -16,5 +16,3 @@
 </div>
 
 <h3 align="center">I'm just Student Developer from Ukraine 🇺🇦</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/alexndrev)  
