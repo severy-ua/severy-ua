@@ -18,13 +18,3 @@
 <h3 align="center">I'm just Student Developer from Ukraine 🇺🇦</h3>
 
 ![GitHub metrics](https://metrics.lecoq.io/alexndrev)  
----
-<div id="others" align="center">
-  
-  ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-  
-</div>
